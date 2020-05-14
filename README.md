@@ -1,4 +1,4 @@
-# A quick start guide to Python and Github
+# A quick start guide to Python
 
 Let me start by saying that Python is an amazing tool for literally *anyone* to know, but this is especially true for neuroscientists of all kinds. Python is a general-purpose programming language, meaning that it was designed to be flexible enough to be used for writing software for nearly any task, from signal processing to statistics to web scraping. Because there are nearly infinite ways to use Python, there are also many ways to install and use Python which can making getting started a daunting task for beginners. This was written to be a guide for going from zero Python (or any programming) knowledge to up-and-running as quickly as possible with the goal of data science in mind.
 
