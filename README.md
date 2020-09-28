@@ -127,3 +127,8 @@ TODO
 2. How to download/install Github
 2. How to get started with Github
 3. Using the terminal is confusing, can I not?
+
+
+## Getting started with Bash
+
+[How to create and use Bash scripts](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
